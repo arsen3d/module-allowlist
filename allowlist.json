@@ -6,7 +6,7 @@
     },
     {
       "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-sdxl-pipeline",
-      "Version": "v1.2.0",
+      "Version": "v1.1",
       "Enabled": true
     },
     {
@@ -32,11 +32,6 @@
     {
       "ModuleId": "https://github.com/Lilypad-Tech/module-phi2",
       "Version": "v0.0.1",
-      "Enabled": true
-    },
-    {
-      "ModuleId": "run-cowsay-onchain",
-      "Version": "v0.0.4",
       "Enabled": true
     }
   ]
